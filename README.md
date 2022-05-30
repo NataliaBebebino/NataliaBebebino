@@ -3,7 +3,8 @@
 My name is Natalia Bebebino and I hold a CPA from the University of Buenos Aires. <br/>
 I have always liked technology and having worked as an accountant for several years in the technology industry has made me aware of the amazing things that can be done thanks to the evolution of technology, so last year I decided to take a new path in my career and started studying programming languages. I am successfully enrolled at Plataforma 5's coding bootcamp which starts by the end of June. I am looking forward to this new career path.
 
-✔️ Check out my repository with the projects I've been working on before joining the bootcamp. 
+✔️ Check out my repository with the projects I've been working on before joining the bootcamp. <br/>
+✔️ Check out my portfolio website: [MyPortfolio](https://spiffy-kelpie-531c2e.netlify.app). 
 
 **My current stack:**
 <div align="justify">
