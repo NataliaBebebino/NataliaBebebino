@@ -7,7 +7,7 @@ Working as an accountant at an international company has trained me to become a 
 Additionally, during my tenure as an accountant at SAP, I could observe processes, find ways of doing things better and automate repetitive tasks through Microsoft Excel macros. <br/>
 
 ✔️ Check out my repository with the projects I've been working on. <br/>
-✔️ Check out my portfolio website: [MyPortfolio](https://spiffy-kelpie-531c2e.netlify.app). 
+✔️ Check out my portfolio website: [MyPortfolio](https://nataliabebebino.github.io/SinglePagePortfolio/). 
 
 **My current stack:**
 <div align="justify">
