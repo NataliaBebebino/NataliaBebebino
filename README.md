@@ -4,7 +4,7 @@ I am Natalia Bebebino. <br/>
 I am a junior full-stack developer taking the first steps into the IT world. <br/>
 I am truly convinced that continuous learning is the only way forward, that's why at the beginning of 2022 I decided to sign up for Plataforma 5 Coding Bootcamp where I spent more than 800 hours learning by doing, building projects individually and with fellow students. <br/>
 Working as an accountant at an international company has trained me to become a very detail-oriented person and has given me invaluable experience in virtual, multi-cultural environments. <br/>
-Additionally, during my tenure as an accountant at SAP, I could observe processes, find ways of doing things better and automate repetitive tasks through Microsoft Excel macros. <br/>
+Additionally, during my tenure as an accountant at SAP, I analyzed processes, found ways of doing things better and automated repetitive tasks through Microsoft Excel macros. <br/>
 
 ✔️ Check out my repository with the projects I've been working on. <br/>
 ✔️ Check out my portfolio website: [MyPortfolio](https://nataliabebebino.github.io/SinglePagePortfolio/). 
